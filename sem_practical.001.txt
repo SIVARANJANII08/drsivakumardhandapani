@@ -1,0 +1,39 @@
+﻿Created By AccessData® FTK® Imager 3.1.2.0 
+
+Case Information: 
+Acquired using: ADI3.1.2.0
+Case Number: 1
+Evidence Number: 1
+Unique description: sem practical
+Examiner: sivaranjanii
+Notes: sem prac
+
+--------------------------------------------------------------
+
+Information for G:\sem_practical:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Logical
+[Drive Geometry]
+ Bytes per Sector: 512
+ Sector Count: 2,880
+[Image]
+ Image Type: Raw (dd)
+ Source data size: 1 MB
+ Sector count:    2880
+[Computed Hashes]
+ MD5 checksum:    05b039882628943b526be82ffd648815
+ SHA1 checksum:   49a7dcddc0591e6cf10f14b28b33f310c4d563a3
+
+Image Information:
+ Acquisition started:   Fri Oct 30 15:03:46 2026
+ Acquisition finished:  Fri Oct 30 15:03:46 2026
+ Segment list:
+  G:\sem_practical.001
+
+Image Verification Results:
+ Verification started:  Fri Oct 30 15:03:46 2026
+ Verification finished: Fri Oct 30 15:03:46 2026
+ MD5 checksum:    05b039882628943b526be82ffd648815 : verified
+ SHA1 checksum:   49a7dcddc0591e6cf10f14b28b33f310c4d563a3 : verified
